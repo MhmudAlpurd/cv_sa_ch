@@ -1,0 +1,8 @@
+# Install a CUDA-enabled PyTorch build from https://pytorch.org/get-started/locally/
+# when GPU training is required. The packages below work for CPU installations too.
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+Pillow>=10.0
+matplotlib>=3.7
+tqdm>=4.66
